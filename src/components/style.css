@@ -1,0 +1,155 @@
+#root{
+  background-color: rgb(87, 158, 59);
+  /* background-image: url("./Images/bg1.jpg"); */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Background for the entire page */
+.bg-gradient-dark {
+  background: linear-gradient(135deg, #1f1f1f, #3b3b3b);
+}
+
+/* Transparent black look for the signup block */
+.bg-transparent-black {
+  background: rgba(86, 16, 107, 0.7);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+/* Button style for dark mode */
+.btn-dark-mode {
+  background-color: #ff4081;
+  color: white;
+}
+
+.btn-dark-mode:hover {
+  background-color: #ff1a5e;
+}
+
+/* Text inputs style for dark mode */
+.input-dark-mode {
+  background-color: #333;
+  border-color: #555;
+  color: white;
+}
+
+.input-dark-mode::placeholder {
+  color: #888;
+}
+
+/* Text and link color */
+.text-dark-mode {
+  color: #fff;
+}
+
+.link-dark-mode {
+  color: #ff4081;
+}
+
+.link-dark-mode:hover {
+  color: #ff1a5e;
+}
+/* Background for the entire page */
+.bg-gradient-dark {
+  background: linear-gradient(135deg, #1f1f1f, #3b3b3b);
+}
+
+/* Transparent black look for the login block */
+.bg-transparent-black {
+  background: rgba(0, 0, 0, 0.7);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+/* Button style for dark mode */
+.btn-dark-mode {
+  background-color: #ff4081;
+  color: white;
+}
+
+.btn-dark-mode:hover {
+  background-color: #ff1a5e;
+}
+
+/* Text inputs style for dark mode */
+.input-dark-mode {
+  background-color: #2a131680;
+  border-color: #555;
+  color: white;
+}
+
+.input-dark-mode::placeholder {
+  color: #888;
+}
+
+/* Text and link color */
+.text-dark-mode {
+  color: #fff;
+}
+
+.link-dark-mode {
+  color: #a1706a;
+}
+
+.link-dark-mode:hover {
+  color: #b28b86;
+}
+/* Background for the entire page */
+.bg-gradient-dark {
+  background: linear-gradient(135deg, #1f1f1f, #3b3b3b);
+}
+
+/* Todo list container with transparent black background */
+.bg-transparent-black {
+  background: rgba(0, 0, 0, 0.7);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+/* Text and inputs in dark mode */
+.text-dark-mode {
+  color: #fff;
+}
+
+.input-dark-mode {
+  background-color: #13070791;
+  border-color: #555;
+  color: white;
+}
+
+.input-dark-mode::placeholder {
+  color: #888;
+}
+
+.btn-dark-mode {
+  background-color: #341010;
+  color: white;
+}
+
+.btn-dark-mode:hover {
+  background-color: #451d1d;
+}
+
+/* Priority task items colors */
+.priority-low {
+  background-color: rgb(130 32 33); /* Green for low priority */
+}
+
+.priority-medium {
+  background-color: rgb(160 103 96); /* Yellow for medium priority */
+}
+
+.priority-high {
+  background-color: rgb(186 110 33); /* Red for high priority */
+}
+
+.task-item {
+  background-color: rgb(156, 24, 24);
+  color: black;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin-top: 0.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
